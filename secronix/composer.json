@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "greenlion/php-sql-parser" : "4.1.*"
+    }
+}

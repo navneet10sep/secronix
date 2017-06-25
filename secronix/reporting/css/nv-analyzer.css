@@ -1,0 +1,48 @@
+.sbold
+{
+	font-weight: 600;
+}
+
+.secronix-vhead
+{
+	background: #ca182d !important;
+	color: #fff !important;
+}
+
+.nv-analyzer-page-container
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+    bottom: 350px;
+    overflow: auto;
+}
+ 
+.nv-analyzer-reporting-interface
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #f9f9f9;
+	border-top: 1px solid #ddd;
+	height: 350px;
+}
+
+ 
+.ri-section
+{
+	border-right: 1px solid #ddd;
+}
+
+.ri-section-title
+{
+	text-align: center;
+
+}
+
+.run-attack
+{
+	margin: 3px;
+}
